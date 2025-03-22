@@ -1,0 +1,19 @@
+.t{
+    border: 1px solid rgb(240, 230, 230);
+    display: inline-block;
+}
+.d{
+background-color: #00a652;
+height: 60px;
+width: 250px;
+}
+.e{
+background-color: #fef200;
+height: 60px;
+width: 250px;
+}
+.f{
+    background-color: #0065b3;
+    height: 60px;
+    width: 250px;
+}
